@@ -1,0 +1,4 @@
+node_modules
+/config/wepekey.json
+pachege-lock.json
+.env
